@@ -102,7 +102,7 @@ python main.py
 
 ## ✍️ Author
 
-- [Towha Elahi](https://github.com/towhaEL)
+- [Md. Sefat Ahmed](https://github.com/towhaEL)
 
 ---
 
