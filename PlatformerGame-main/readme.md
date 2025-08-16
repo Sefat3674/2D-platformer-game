@@ -102,7 +102,7 @@ python main.py
 
 ## ✍️ Author
 
-- [Md. Sefat Ahmed](https://github.com/Sefat3674))
+- [Md. Sefat Ahmed](https://github.com/Sefat3674)
 
 ---
 
